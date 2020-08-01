@@ -27,4 +27,9 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code><code><img height="20" 
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 
-<a href="https://github.com/iampawan"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iampawan&theme=dark&hide_langs_below=1" /> </a> <a href="https://github.com/iampawan"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=iampawan&show_icons=true&theme=dark&line_height=27" alt="Pawan's github stats"/> </a> <a href="https://github.com/iampawan/FlutterExampleApps"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iampawan&repo=FlutterExampleApps&theme=dark" /> </a> <a href="https://github.com/iampawan/VelocityX"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iampawan&repo=VelocityX&theme=dark" /> </a> <div align="center"> ### Show some ❤️ by starring some of the repositories! </div> 
+<a href="https://github.com/demola234"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=demola234&theme=dark&hide_langs_below=1" /> </a>
+
+<a href="https://github.com/demola234"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=demola234&show_icons=true&theme=dark&line_height=27" alt="Ademola's github stats"/> </a> 
+
+  
+  ### Show some ❤️ by starring some of the repositories! </div> 
