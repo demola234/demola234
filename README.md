@@ -13,9 +13,9 @@
 
 ## About Me
 
-- 🔭 Goals: To Contribute more to open source.
+- 🔭 Goals: To Contribute more to open source, To learn Javascript and React.
 - 👨‍💻 I’m currently learning Flutter and Java.
-- 🤔 I’m looking to become a software and mobile developer by year 2022.
+- 🤔 I’m looking to become a software and mobile developer.
 - 🌬 Contact Me: [Twitter - @AdemolaDi](https://twitter.com/ademoladi). 
 - 🌎 Motto: You can do all things if you believe.
 
@@ -27,7 +27,8 @@
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code><code><img height="70" 
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code> <code><img height="70" 
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code><code><img height="70" 
-src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code><code><img height="70" 
+src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 
 <br/> 
 
