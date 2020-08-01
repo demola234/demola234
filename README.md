@@ -8,6 +8,7 @@
 
 <a href="https://instagram.com/eon_demola"> <img align="left" alt="Ademola's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> </a> 
 
+<a href="https://instagram.com/eon_demola"> <img align="left" alt="Ademola's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" /> </a> 
 <br/>
 
 ## About Me
