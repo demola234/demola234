@@ -11,3 +11,11 @@
 <a href="https://instagram.com/eon_demola"> <img align="left" alt="Ademola's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> </a> 
 
 <br/> <br/> 
+
+- 🔭 Goals: To Contribute more to open source.
+- 👨‍💻 I’m currently learning Flutter and Java.
+- 🤔 I’m looking to become a software and mobile developer by year 2022.
+- 🌬 Contact Me: [Twitter - @AdemolaDi](https://twitter.com/ademoladi). 
+- 🌎 Motto: You can do all things if you believe.
+
+ 
