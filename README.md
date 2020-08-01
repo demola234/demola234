@@ -1,4 +1,4 @@
-## Hello, I'm Ademola👋
+## Hello👋 I'm Ademola
 
 <a href="https://twitter.com/AdemolaDi"> <img align="left" alt="Ademola Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /> </a> 
 
