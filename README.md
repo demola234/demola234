@@ -1,35 +1,24 @@
 ## Hello👋 I'm Ademola
 
-<a href="https://twitter.com/AdemolaDi"> <img align="left" alt="Ademola Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /> </a> 
+<br/> 
 
-<a href="https://github.com/demola234"> <img align="left" alt="Ademola Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /> </a>
-
-<a href="https://t.me/Ademoladi"> <img align="left" alt="Ademola's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" /> </a> 
-
-<a href="https://instagram.com/eon_demola"> <img align="left" alt="Ademola's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> </a> 
-
-
-## About Me
-
-- 👨‍💻 I’m currently learning Flutter and Java.
-- 🤔 I’m looking to become a software and mobile developer.
-- 🌬 Contact Me: [Twitter - @AdemolaDi](https://twitter.com/ademoladi). 
-- 🌎 Motto: You can do all things if you believe.
+ ### 🛠 Tech Stack
+![Dart](https://img.shields.io/badge/Dart-05122A?style=flat&logo=dart&logoColor=29B6F6)&nbsp;
+![Flutter](https://img.shields.io/badge/Flutter-05122A?style=flat&logo=flutter&logoColor=02569B)&nbsp;
+![Swift](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=Swift&logoColor=E34F26)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=flat-square&logo=Xcode&logoColor=white)&nbsp;
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)&nbsp;
+![Firebase](https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase&logoColor=black)&nbsp;
+![JSON](https://img.shields.io/badge/json-5E5C5C?style=flat&logo=json&logoColor=white)&nbsp;
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)&nbsp;
+![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=ios&logoColor=white)&nbsp;
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=Adobe%20XD&logoColor=#FF61F6)&nbsp;
 
 <br/> 
 
-## Languages and Libraries
 
-<code><img height="70" 
-src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code><code><img height="70" 
-src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code> <code><img height="70" 
-src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code><code><img height="70" 
-src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code><code><img height="70" 
-src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-
-<br/> 
-
-## Progress
+## 📊 GitHub Analytics
 <a href="https://github.com/demola234"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=demola234&show_icons=true&theme=dark&line_height=27" alt="Ademola's github stats"/> </a> 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=demola234&label=Views&color=blue&style=plastic" alt="demola234" /> </p> 
