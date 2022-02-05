@@ -14,7 +14,7 @@
 ![JSON](https://img.shields.io/badge/json-5E5C5C?style=flat&logo=json&logoColor=white)&nbsp;
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)&nbsp;
 ![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=ios&logoColor=white)&nbsp;
-![Figma](https://img.shields.io/badge/FIGMA-yellowgreen)&nbsp;
+![iOS](https://img.shields.io/badge/Figma-000000?style=flat&logo=figma&logoColor=white)&nbsp;
 
 <br/> 
 
