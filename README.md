@@ -1,4 +1,8 @@
-## Hello👋 I'm Ademola
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,YO!👋;I'm+Ademola...;WWelcome+to+my+Git!&center=true&size=40&">
+  </a>
+</h1>
 
 <br/> 
 
