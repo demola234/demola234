@@ -30,11 +30,11 @@
   <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=demola234&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6">
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=demola234&theme=darcula&hide_border=true&background=FFFFFF00">
 </p>
-## 🏆 GitHub Trophies
+### 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=demola234&theme=onedark&margin-w=15&margin-h=15)](https://www.buymeacoffee.com/pantani)
 
 <hr>
 
-## 🎻 Listening To
+### 🎻 Listening To
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31yko6wylxgeyaa4wto46ecndhbm&cover_image=true&theme=novatorem&show_offline=false&background_color=b53b3b&interchange=true&bar_color=348cea&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31yko6wylxgeyaa4wto46ecndhbm&redirect=true)
