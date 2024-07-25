@@ -26,4 +26,4 @@
 
 
 ### 🎻 Listening To
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31yko6wylxgeyaa4wto46ecndhbm&cover_image=true&theme=novatorem&show_offline=false&background_color=b53b3b&interchange=true&bar_color=348cea&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31yko6wylxgeyaa4wto46ecndhbm&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31yko6wylxgeyaa4wto46ecndhbm&cover_image=true&theme=novatorem&show_offline=false&background_color=b53b3b&interchange=true&bar_color=348cea&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31yko6wylxgeyaa4wto46ecndhbm&redirect=true)
