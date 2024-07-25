@@ -19,7 +19,7 @@
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)&nbsp;
 ![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=ios&logoColor=white)&nbsp;
 ![iOS](https://img.shields.io/badge/Figma-000000?style=flat&logo=figma&logoColor=white)&nbsp;
-![GOLang](https://img.shields.io/badge/go-05122A?style=flat&logo=golang&logoColor=white)&nbsp;
+![GOLang]([https://img.shields.io/badge/go-05122A?style=flat&logo=golang&logoColor=white](https://img.shields.io/badge/go.dev-reference-blue?logo=go&logoColor=white&style=flat-square)&nbsp;
 
 <br/> 
 
