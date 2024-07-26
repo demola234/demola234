@@ -11,16 +11,12 @@
 ![Flutter](https://img.shields.io/badge/Flutter-05122A?style=flat&logo=flutter&logoColor=02569B)&nbsp;
 ![Swift](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=Swift&logoColor=E34F26)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=flat-square&logo=Xcode&logoColor=white)&nbsp;
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)&nbsp;
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase&logoColor=black)&nbsp;
-![JSON](https://img.shields.io/badge/json-5E5C5C?style=flat&logo=json&logoColor=white)&nbsp;
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)&nbsp;
 ![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=ios&logoColor=white)&nbsp;
 ![iOS](https://img.shields.io/badge/Figma-000000?style=flat&logo=figma&logoColor=white)&nbsp;
-![GOLang]([https://img.shields.io/badge/go-05122A?style=flat&logo=golang&logoColor=white](https://img.shields.io/badge/go.dev-reference-blue?logo=go&logoColor=white&style=flat-square)&nbsp;
-
 <br/> 
 
 
