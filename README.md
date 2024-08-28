@@ -22,7 +22,7 @@
 
 
 ### Spotify 🎧
-[<img src="https://spotify-now-playing-beta.vercel.app/api/spotify?background_color=00000000&border_color=00000000" alt="Birju Vachhani Spotify Playing" width="400" />](https://open.spotify.com/user/31yko6wylxgeyaa4wto46ecndhbm)
+[<img src="https://spotify-now-playing-beta.vercel.app/api/spotify?background_color=00000000&border_color=00000000" alt="Ademola Kolawole Spotify Playing" width="400" />](https://open.spotify.com/user/31yko6wylxgeyaa4wto46ecndhbm)
 
 
 ![GitHub Snake Light](dist/github-contribution-grid-snake.svg#gh-light-mode-only)
