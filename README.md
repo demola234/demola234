@@ -22,9 +22,7 @@
 
 
 ### Spotify 🎧
-&nbsp;<div align="center">
-  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31yko6wylxgeyaa4wto46ecndhbm)
-</div>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31yko6wylxgeyaa4wto46ecndhbm&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31yko6wylxgeyaa4wto46ecndhbm&redirect=true)
 
 
 ![GitHub Snake Light](dist/github-user-contribution.svg#gh-light-mode-only)
