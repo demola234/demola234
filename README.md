@@ -22,7 +22,9 @@
 
 
 ### Spotify 🎧
-[<img src="https://spotify-now-playing-beta.vercel.app/api/spotify?background_color=00000000&border_color=00000000" alt="Ademola Kolawole Spotify Playing" width="400" />](https://open.spotify.com/user/31yko6wylxgeyaa4wto46ecndhbm)
+&nbsp;<div align="center">
+  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31yko6wylxgeyaa4wto46ecndhbm)
+</div>
 
 
 ![GitHub Snake Light](dist/github-user-contribution.svg#gh-light-mode-only)
