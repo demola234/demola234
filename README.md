@@ -25,5 +25,5 @@
 [<img src="https://spotify-now-playing-beta.vercel.app/api/spotify?background_color=00000000&border_color=00000000" alt="Ademola Kolawole Spotify Playing" width="400" />](https://open.spotify.com/user/31yko6wylxgeyaa4wto46ecndhbm)
 
 
-![GitHub Snake Light](dist/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake dark](dist/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake Light](dist/github-user-contribution.svg#gh-light-mode-only)
+![GitHub Snake dark](dist/github-user-contribution-dark.svg#gh-dark-mode-only)
