@@ -4,20 +4,30 @@
   </a>
 </h1>
 
-<div align="center">
-  
 <!-- Personal Links -->
-  <p align="left">
-    <a href="https://www.demola.dev" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Website"/>
+  <p align="center">
+    <a href="https://linkedin.com/in/ademolakolawole" style="text-decoration:none">
+      <img src="https://raw.githubusercontent.com/demola234/demola234/main/assets/linkedin-button.png" alt="LinkedIn" height="40"/>
     </a>
-    <a href="https://linkedin.com/in/ademolakolawole" target="_blank">
-      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=#FF7139" alt="LinkedIn"/>
+    <a href="https://www.demola.dev" style="text-decoration:none">
+      <img src="https://raw.githubusercontent.com/demola234/demola234/main/assets/portfolio-button.png" alt="Portfolio" height="40"/>
     </a>
-    <a href="https://github.com/demola234" target="_blank">
-      <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=#FF7139" alt="GitHub"/>
-    </a>
+    <!-- <a href="https://twitter.com/demola234" style="text-decoration:none">
+      <img src="https://raw.githubusercontent.com/demola234/demola234/main/assets/twitter-button.png" alt="Twitter" height="40"/>
+    </a> -->
   </p>
+  <!-- HTML Version (if image buttons don't display) -->
+  <div style="display:none">
+    <a href="https://linkedin.com/in/ademolakolawole" target="_blank" style="display:inline-block; background-color:#1D1F23; color:white; padding:8px 15px; margin:0 5px; border-radius:6px; text-decoration:none; font-weight:bold;">
+      <span style="margin-right:5px;">LinkedIn</span>
+    </a>
+    <a href="https://www.demola.dev" target="_blank" style="display:inline-block; background-color:#1D1F23; color:white; padding:8px 15px; margin:0 5px; border-radius:6px; text-decoration:none; font-weight:bold;">
+      <span style="margin-right:5px;">Portfolio</span>
+    </a>
+    <a href="https://twitter.com/demola234" target="_blank" style="display:inline-block; background-color:#1D1F23; color:white; padding:8px 15px; margin:0 5px; border-radius:6px; text-decoration:none; font-weight:bold;">
+      <span style="margin-right:5px;">Twitter</span>
+    </a>
+  </div>
 </div>
 <br>
 
