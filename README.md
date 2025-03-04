@@ -7,15 +7,15 @@
 <div align="center">
   
 <!-- Personal Links -->
-  <p align="center">
+  <p align="left">
     <a href="https://www.demola.dev" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Website"/>
     </a>
     <a href="https://linkedin.com/in/ademolakolawole" target="_blank">
-      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=#FF7139" alt="LinkedIn"/>
     </a>
     <a href="https://github.com/demola234" target="_blank">
-      <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+      <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=#FF7139" alt="GitHub"/>
     </a>
   </p>
 </div>
@@ -23,7 +23,7 @@
 
 ## 🎧 Spotify Now Playing
 
-<div align="right">
+<div align="left">
   
   [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31yko6wylxgeyaa4wto46ecndhbm&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31yko6wylxgeyaa4wto46ecndhbm&redirect=true)
   
