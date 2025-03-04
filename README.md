@@ -5,21 +5,6 @@
 </h1>
 
 <div align="center">
-  
-<!-- Personal Links -->
-  <p align="left">
-    <a href="https://www.demola.dev" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Website"/>
-    </a>
-    <a href="https://linkedin.com/in/ademolakolawole" target="_blank">
-      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=#FF7139" alt="LinkedIn"/>
-    </a>
-    <a href="https://github.com/demola234" target="_blank">
-      <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=#FF7139" alt="GitHub"/>
-    </a>
-  </p>
-</div>
-<br>
 
 ## 🎧 Spotify Now Playing
 
