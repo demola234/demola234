@@ -17,7 +17,7 @@
 
 ## 🎧 Spotify Now Playing
 
-<div align="center">
+<div align="right">
   
   [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31yko6wylxgeyaa4wto46ecndhbm&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31yko6wylxgeyaa4wto46ecndhbm&redirect=true)
   
@@ -36,15 +36,3 @@
 </div>
 
 <br>
-
-<!-- GitHub Stats -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=demola234&show_icons=true&theme=radical" alt="Ademola's GitHub stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=demola234&theme=radical" alt="Ademola's GitHub streak">
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=demola234.demola234" alt="visitors">
-</div>
