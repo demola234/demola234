@@ -25,5 +25,8 @@
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31yko6wylxgeyaa4wto46ecndhbm&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31yko6wylxgeyaa4wto46ecndhbm&redirect=true)
 
 
-![GitHub Snake Light](dist/github-user-contribution.svg#gh-light-mode-only)
-![GitHub Snake dark](dist/github-user-contribution-dark.svg#gh-dark-mode-only)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/demola234/demola234/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/demola234/demola234/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/demola234/demola234/output/github-contribution-grid-snake.svg">
+</picture>
