@@ -6,13 +6,19 @@
 
 <div align="center">
   
-  <!-- Personal Links -->
-  <a href="https://www.demola.dev"><img src="https://img.shields.io/badge/Website-demola.dev-brightgreen?style=for-the-badge" alt="Website"></a>
-  <a href="https://linkedin.com/in/ademolakolawole"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/demola234"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  
+<!-- Personal Links -->
+  <p align="center">
+    <a href="https://www.demola.dev" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Website"/>
+    </a>
+    <a href="https://linkedin.com/in/ademolakolawole" target="_blank">
+      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="https://github.com/demola234" target="_blank">
+      <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    </a>
+  </p>
 </div>
-
 <br>
 
 ## 🎧 Spotify Now Playing
